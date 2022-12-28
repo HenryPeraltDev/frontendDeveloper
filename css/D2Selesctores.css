@@ -1,0 +1,14 @@
+*{
+    background: rgb(134, 226, 226);
+    font-size: 1.5rem;
+     margin-bottom: 10px;
+}
+.card{
+    background: yellowgreen;
+}
+.card1 {
+    color: red;
+}
+.card2 {
+    color: rgb(75, 34, 199);
+}

@@ -1,0 +1,18 @@
+*{
+    background-color: #8f9b82 ;
+}
+div p{
+    color: lime;
+}
+div > div{
+    background: plum;
+}
+.es{
+    background: red;
+}
+div + section {
+    background:  papayawhip;
+}
+div ~ p{
+    color: powderblue;
+}
