@@ -1,0 +1,24 @@
+*{
+    background: grey;
+}
+p{
+    color: yellowgreen;
+}
+p::before{
+    content: "🔥";
+}
+p::after{
+    content: "🚀";
+}
+p:hover{
+    color: blueviolet;
+}
+div p:nth-child(2){
+    color: #FF597B;
+}
+p::first-letter{
+    color: blue;
+}
+::placeholder{
+    color: #EB455F;
+}
